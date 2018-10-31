@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phones are bad and you know it"
-date:   2018-10-26 08:43:18 -0700
+date:   2018-10-27 08:43:18 -0700
 categories: parenting
 ---
 
